@@ -55,4 +55,4 @@ router.get("/products", getAllProducts);
 
 router.get("/products/categories", getAllUniqueCategories);
 
-module.exports = router;1
+module.exports = router;
