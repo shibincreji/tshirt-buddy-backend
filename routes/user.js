@@ -20,5 +20,5 @@ router.get(
   isAuthenticated,
   userPurchaseList
 );
-
+1
 module.exports = router;
