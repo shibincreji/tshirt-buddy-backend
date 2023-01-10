@@ -1,4 +1,4 @@
-const mongoose = require("mongoose");1
+const mongoose = require("mongoose");
 
 const categorySchema = new mongoose.Schema(
   {
