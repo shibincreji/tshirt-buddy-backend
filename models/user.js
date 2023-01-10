@@ -1,4 +1,4 @@
-var mongoose = require("mongoose");1
+var mongoose = require("mongoose");
 const crypto = require("crypto");
 const uuidv1 = require("uuid/v1");
 
